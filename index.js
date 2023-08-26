@@ -1,4 +1,4 @@
-// Inquirer and file system (node package manager) import
+// Inquirer and file system (fs) import
 const inquirer = require("inquirer");
 const fs = require("fs");
 // Importing shapes from ./lib/shapes
